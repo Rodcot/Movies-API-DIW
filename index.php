@@ -1,0 +1,1 @@
+<?php header('Location: https://movies-api-diw.herokuapp.com/home-page.html'); ?>

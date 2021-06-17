@@ -1,0 +1,57 @@
+
+/* Header */
+.nav-link.active{
+    background-color: rgb(196, 196, 196);
+}
+.nav-link{
+    padding: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/* Body */
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#box-filme{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: dimgray;
+    clear: both;
+    overflow: auto;
+}
+
+#box-filme .img-preview{
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 300px;
+
+}
+
+#box-filme .titulo{
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#box-filme .creditos1{
+    color: rgb(14, 14, 247);
+}
+
+#box-filme .creditos2{
+    color: red;
+}
+
+
+
+/* Footer */
+#divider{
+    height: 10%;
+    clear: both;
+    margin-bottom: 70px;
+}
+#btn_footer_social{
+    width:12%;
+}
